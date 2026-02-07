@@ -1,0 +1,2 @@
+aiopppp>=0.2.3
+python-dotenv>=1.0.0
