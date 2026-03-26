@@ -111,7 +111,7 @@ If your camera uses a similar app and protocol, it should work.
 
 ## Note on Controls
 
-The web page how buttons like Start/Stop Video, Resolution, and Reboot. Not all buttons work with every camera - it depends on what the camera firmware supports. Video streaming works on all tested cameras, but features like PTZ (pan/tilt), IR, and light control may do nothing or disconnect the session. This is normal.
+The web page has buttons like Fullscreen, Start/Stop Video, Resolution, and Reboot. Not all buttons work with every camera - it depends on what the camera firmware supports. Video streaming works on all tested cameras, but features like PTZ (pan/tilt), IR, and light control may do nothing or disconnect the session. This is normal.
 
 ## Troubleshooting
 

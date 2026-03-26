@@ -1,5 +1,7 @@
 .env
 venv/
+.venv
 __pycache__/
 *.pyc
 *.pcap
+.DS_Store

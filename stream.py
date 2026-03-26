@@ -23,7 +23,9 @@ PPPP_PASS = os.getenv("PPPP_PASS", "6666")
 WEB_PORT = int(os.getenv("WEB_PORT", "4000"))
 
 from aiopppp.discover import Discovery
-from aiopppp.http_server import SESSIONS, start_web_server
+from aiopppp.http_server import SESSIONS
+
+from cam_http import start_web_server
 from aiopppp.session import make_session
 
 logger = logging.getLogger(__name__)
